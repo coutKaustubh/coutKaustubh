@@ -1,14 +1,14 @@
-🔭 I’m currently working on Building my skills in Python and DSA
+🔭 I’m currently working on Building my skills in Python and DSA <br>
 🧑‍🤝‍🧑 I’m looking to collaborate on College-centric tech projects or 
-real-world problem-solving platforms
+real-world problem-solving platforms <br>
 🤝 I’m looking for help with Mastering advanced backend development and building
- scalable, production-ready web apps.
+ scalable, production-ready web apps.<br>
 🌱 I’m currently learning Python, MySQL, Express.js, and 
-deepening my understanding of DSA for better algorithmic thinking
+deepening my understanding of DSA for better algorithmic thinking.<br>
 💬Ask me about How Dhaan Uthan helps farmers with ML, the idea
  behind Nagar Nivedan, or how I built a custom-auth URL shortener
- using Express and MongoDB.
-⚡ Fun fact I have a good humour
+ using Express and MongoDB.<br>
+⚡ Fun fact I have a good humour<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustubhsrivastava22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-srivastava-09b54331b) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kaustubh-Srivastava-71) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustubhsrivastavajee22@gmail.com) 
