@@ -1,6 +1,14 @@
-
-My name is Kaustubh Srivastava and I am currently working on <br>developing my skills in Python and DSA. Also I am looking for help with<br>Mastering advanced backend concepts and building production-ready<br>web apps; improving my interview skills for tech leadership roles.<br>Projects like Dhaan Uthan, Nagar Nivedan, and the URL shortener are <br>one of basic projects I have already built.<br><br>           Very passionate about DSA and learning new concepts<br>
-
+🔭 I’m currently working on Building my skills in Python and DSA
+🧑‍🤝‍🧑 I’m looking to collaborate on College-centric tech projects or 
+real-world problem-solving platforms
+🤝 I’m looking for help with Mastering advanced backend development and building
+ scalable, production-ready web apps.
+🌱 I’m currently learning Python, MySQL, Express.js, and 
+deepening my understanding of DSA for better algorithmic thinking
+💬Ask me about How Dhaan Uthan helps farmers with ML, the idea
+ behind Nagar Nivedan, or how I built a custom-auth URL shortener
+ using Express and MongoDB.
+⚡ Fun fact I have a good humour
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustubhsrivastava22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-srivastava-09b54331b) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kaustubh-Srivastava-71) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustubhsrivastavajee22@gmail.com) 
@@ -19,14 +27,6 @@ My name is Kaustubh Srivastava and I am currently working on <br>developing my s
 [![](https://visitcount.itsvg.in/api?id=coutKaustubh&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/GPAY UPI ID - kaustubhsrivastava22@okaxis) 
+  GPAY UPI ID - kaustubhsrivastava22@okaxis
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
