@@ -1,12 +1,4 @@
-## Hi there 👋
 
-<!--
-**coutKaustubh/coutKaustubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
 My name is Kaustubh Srivastava and I am currently working on <br>developing my skills in Python and DSA. Also I am looking for help with<br>Mastering advanced backend concepts and building production-ready<br>web apps; improving my interview skills for tech leadership roles.<br>Projects like Dhaan Uthan, Nagar Nivedan, and the URL shortener are <br>one of basic projects I have already built.<br><br>           Very passionate about DSA and learning new concepts<br>
 
 
