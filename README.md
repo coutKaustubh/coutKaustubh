@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building my skills in Python and DSA<br>🧑‍🤝‍🧑 I’m looking to collaborate on College-centric tech projects or real-world problem-solving platforms<br>🤝 I’m looking for help with Mastering advanced backend development and building scalable, production-ready web apps.<br>🌱 I’m currently learning Python, MySQL, Express.js, and deepening my understanding of DSA for better algorithmic thinking.<br>💬Ask me about How Dhaan Uthan helps farmers with ML, the idea behind Nagar Nivedan, or how I built a custom-auth URL shortener using Express and MongoDB.
+🔭Ungrad at IIITN, Backend Developer <br>🧑‍🤝‍🧑Proficient in Python Django for development <br>🤝Looking forward to build some real world projects and contribute to open source<br>🌱DSA is more of my type , love to solve DSA problems<br>💬Do checkout my all projects , especially EvoGene
 
 
 ## 🌐 Socials:
