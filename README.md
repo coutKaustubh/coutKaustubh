@@ -23,7 +23,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-  ## 💰 You can help me by Donating
-  GPAY UPI ID - kaustubhsrivastava22@okaxis
+
 
   
