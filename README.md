@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Ungrad at IIITN, Backend Developer <br>🧑‍🤝‍🧑Proficient in Python Django for development <br>🤝Looking forward to build some real world projects and contribute to open source<br>🌱DSA is more of my type , love to solve DSA problems<br>💬Do checkout my all projects , especially EvoGene
+🔭Pre Final Year at IIITN, Backend Developer <br>🧑‍🤝‍🧑Proficient in Python Django for development <br>🤝Looking forward to build some real world projects and contribute to open source<br>🌱DSA is more of my type , love to solve DSA problems<br>💬Do checkout my all projects , especially EvoGene
 
 
 ## 🌐 Socials:
