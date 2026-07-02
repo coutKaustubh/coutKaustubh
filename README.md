@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Kaustubh Srivastava</h1>
 <h3 align="center">Full Stack Developer | From Ideas to Impact</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coutkaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="coutkaustubh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coutkaustubh" alt="coutkaustubh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaustubh_2807" target="blank"><img src="https://img.shields.io/twitter/follow/kaustubh_2807?logo=twitter&style=for-the-badge" alt="kaustubh_2807" /></a> </p>
 
