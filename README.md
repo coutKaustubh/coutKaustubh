@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **System Design and core concepts**
 
-- 💬 Ask me about **How to scale backend**
+- 💬 Ask me about **my projects**
 
 - 📫 How to reach me **kaustubhsrivastavajee22@gmail.com**
 
