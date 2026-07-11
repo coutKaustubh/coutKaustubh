@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kaustubhsrivastavajee22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17GsWDj8MtJDfqbpd_18Xi6TliYKtOR9y/view](https://drive.google.com/file/d/17GsWDj8MtJDfqbpd_18Xi6TliYKtOR9y/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZM4tQ9CRTacTtO9dRTHD586JTuzX0d3c/view?usp=sharing](https://drive.google.com/file/d/1ZM4tQ9CRTacTtO9dRTHD586JTuzX0d3c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
