@@ -1,4 +1,8 @@
-<div align="center"> <a href="https://github.com/coutkaustubh">
+<div align="center">
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=Kaustubh+Srivastava;Full-stack+developer;Building+CommitIQ;Learning+system+design" alt="Animated introduction: Kaustubh Srivastava, full-stack developer, building CommitIQ, learning system design" /></a>
+
+<a href="https://github.com/coutkaustubh">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=Kaustubh%20Srivastava&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-stack%20developer%20building%20useful%20products&descAlignY=60&descSize=17" alt="Kaustubh Srivastava — Full-stack developer" width="100%" />
 </a> <p><strong>Full-stack developer · System design learner · Product-minded builder</strong></p>
 
