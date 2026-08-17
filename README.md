@@ -1,38 +1,76 @@
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%">
-</p> 
-   
-<h1 align="center">Hi 👋, I'm Kaustubh Srivastava</h1>
-<h3 align="center">Full Stack Developer | From Ideas to Impact</h3>
-<img align="right" alt = "Coding" width = "400" src = "https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coutkaustubh&label=Profile%20views&color=0e75b6&style=flat" alt="coutkaustubh" /> </p>
+<div align="center"> <a href="https://github.com/coutkaustubh">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=Kaustubh%20Srivastava&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-stack%20developer%20building%20useful%20products&descAlignY=60&descSize=17" alt="Kaustubh Srivastava — Full-stack developer" width="100%" />
+</a> <p><strong>Full-stack developer · System design learner · Product-minded builder</strong></p>
 
+<a href="https://github.com/coutkaustubh"><img src="https://img.shields.io/badge/GitHub-coutkaustubh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><a href="https://commit-iq-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20project-CommitIQ-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="CommitIQ" /></a><a href="mailto:kaustubhsrivastavajee22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<p align="left"> <a href="https://twitter.com/kaustubh_2807" target="blank"><img src="https://img.shields.io/twitter/follow/kaustubh_2807?logo=twitter&style=for-the-badge" alt="kaustubh_2807" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=coutkaustubh&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" /> </div>
 
-- 🔭 I’m currently working on [CommitIQ](https://commit-iq-chi.vercel.app/)
+---
 
-- 🌱 I’m currently learning **System Design and core concepts**
+## About me
 
-- 💬 Ask me about **my projects**
+I am a **full-stack developer** who enjoys turning ideas into reliable, useful software. I am currently building [**CommitIQ**](https://commit-iq-chi.vercel.app/) and deepening my understanding of **system design, backend architecture, and core computer-science concepts**.
 
-- 📫 How to reach me **kaustubhsrivastavajee22@gmail.com**
+I care about clean interfaces, practical engineering decisions, and learning by shipping. If you are working on an interesting product, open-source project, or developer tool, feel free to connect.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TrNkAQ61BEioyWLqfz4gzdmb3QDGTCAL/view?usp=sharing](https://drive.google.com/file/d/1TrNkAQ61BEioyWLqfz4gzdmb3QDGTCAL/view?usp=sharing)
+> **Currently:** Building CommitIQ and learning system design.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaustubh_2807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubh_2807" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaustubh-srivastava-09b54331b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-srivastava-09b54331b" height="30" width="40" /></a>
-<a href="https://instagram.com/kaustubhsrivastava22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubhsrivastava22" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/roadto_red" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="roadto_red" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/kaustubhsrivastava22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kaustubhsrivastava22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/coutkaustubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coutkaustubh" height="30" width="40" /></a>
+## What I build
+
+| Focus | What it means in practice |
+| --- | --- |
+| **Product development** | Taking a project from an idea to a usable, deployed experience. |
+| **Full-stack systems** | Connecting responsive frontends, APIs, databases, and deployment workflows. |
+| **Backend foundations** | Improving API design, data modeling, caching, and service reliability. |
+| **Continuous learning** | Studying system design and strengthening core engineering concepts through projects. |
+
+## Featured project
+
+<a href="https://commit-iq-chi.vercel.app/">
+<img src="https://img.shields.io/badge/CommitIQ-Explore%20the%20live%20project-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore CommitIQ" />
+</a>
+
+**CommitIQ** is my current product project. Visit the live app to see what I am building, and reach out if you would like to discuss the technical choices, roadmap, or collaboration opportunities.
+
+## Tech stack
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42" height="42" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="42" height="42" alt="PHP" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frameworks, databases, and tools
 
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,django,docker,nginx,mysql,postgres,mongodb,redis&perline=10" alt="React, Node.js, Express, Django, Docker, Nginx, MySQL, PostgreSQL, MongoDB, and Redis" /></p>
 
+## Connect with me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coutkaustubh&" alt="coutkaustubh" /></p>
+<p>
+<a href="https://linkedin.com/in/kaustubh-srivastava-09b54331b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/kaustubh_2807"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://instagram.com/kaustubhsrivastava22"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.codechef.com/users/roadto_red"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/kaustubhsrivastava22"><img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/coutkaustubh"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
+
+## Experience and résumé
+
+<a href="https://drive.google.com/file/d/1TrNkAQ61BEioyWLqfz4gzdmb3QDGTCAL/view?usp=sharing"><img src="https://img.shields.io/badge/View%20my%20résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View résumé" /></a>
+
+## Let's build something useful
+
+If you are a developer, founder, or collaborator interested in building thoughtful software, **open an issue, start a discussion, or reach out by email**. I am always happy to talk about projects, architecture, and opportunities to learn together.
+
+<div align="center">
+
+<a href="mailto:kaustubhsrivastavajee22@gmail.com"><img src="https://img.shields.io/badge/Let's%20connect-kaustubhsrivastavajee22%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kaustubh" /></a>
+
+</div>
