@@ -67,7 +67,7 @@ I care about clean interfaces, practical engineering decisions, and learning by 
 
 ## Experience and résumé
 
-<a href="https://drive.google.com/file/d/1TrNkAQ61BEioyWLqfz4gzdmb3QDGTCAL/view?usp=sharing"><img src="https://img.shields.io/badge/View%20my%20résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View résumé" /></a>
+<a href="https://drive.google.com/file/d/1y7q5HutBc2nahU7NHZvthOFxRMVNr5lh/view?usp=sharing"><img src="https://img.shields.io/badge/View%20my%20résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View résumé" /></a>
 
 ## Let's build something useful
 
