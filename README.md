@@ -65,9 +65,9 @@ I care about clean interfaces, practical engineering decisions, and learning by 
   <a href="https://leetcode.com/coutkaustubh"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-## Experience and résumé
+## Experience and resume
 
-<a href="https://drive.google.com/file/d/1y7q5HutBc2nahU7NHZvthOFxRMVNr5lh/view?usp=sharing"><img src="https://img.shields.io/badge/View%20my%20résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View résumé" /></a>
+<a href="https://drive.google.com/file/d/1S_ET3IKpPT1K_7f-aeBcBQwRQBjwVI_0/view?usp=sharing"><img src="https://img.shields.io/badge/View%20my%20résumé-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View résumé" /></a>
 
 ## Let's build something useful
 
